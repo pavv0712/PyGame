@@ -156,7 +156,7 @@ while running:
     #시간이 0 이하면 게임 종료
     
     if total_time - elapsed_time <= 0:
-        print("타임아웃")
+        print("타임 아웃되었습니다")
         running = False
 
 
