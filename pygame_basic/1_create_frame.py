@@ -23,6 +23,7 @@ while running:
             running = False #게임 진행중 아님
 
 
+    pygame.display.update()
 
 # pygame 종료
 pygame.quit()
